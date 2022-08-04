@@ -1,1 +1,4 @@
 #first line of test
+
+These lines are only exiting in the "branch1" branch, if I checkout main
+they will disappear
